@@ -13,7 +13,7 @@
 
 ### The training data for WA-SRGAN and the VGG.pth file:  <a href="https://drive.google.com/drive/folders/1atpgRIvZ2Q86o-6XeTV0ziDuw8UtXnqs?usp=sharing"> DATA and VGG.pth </a> 
 
-
+### The code for the VGG model is in the "Two-Classifications" folder within the GitHub repository: [Breast-Cancer-Classification](https://github.com/Fuzzy-sh/Breast-Cancer-Classification). [Reference paper for VGG model: <a href="https://ieeexplore.ieee.org/document/9218931">link </a>].
 
 
 ## Documentation:
